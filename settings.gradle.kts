@@ -1,0 +1,1 @@
+rootProject.name = "ConsoleMVC-yongwookim-25001701"
